@@ -3,5 +3,5 @@
 * Fun to use in a future project
 
 # Required
-* Add google credneitlas json file in same directory
+* Add google credentials json file in same directory
 * Add that file name to line 9  
