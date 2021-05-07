@@ -6,7 +6,7 @@ import pandas as pd
 
 
 #Set the os GCP APP Variable
-os.environ['GOOGLE_APPLICATION_CREDENTIALS']=r'ruhacks2021-uw9e-e3630c9c1cc7.json'
+os.environ['GOOGLE_APPLICATION_CREDENTIALS']=r'ENTER JSON FILE HERE.json'
 
 #client for image annotate vision
 client = vision_v1.ImageAnnotatorClient()
